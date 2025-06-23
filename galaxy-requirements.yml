@@ -1,4 +1,4 @@
 collections:
-  - community.postgresql
+  - name: community.postgresql
   - community.general
   - amazon.aws
